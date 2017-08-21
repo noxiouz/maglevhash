@@ -1,0 +1,7 @@
+[package]
+name = "maglevhash"
+version = "0.1.0"
+authors = ["Anton Tiurin <noxiouz@yandex.ru>"]
+
+[dependencies]
+siphasher = "~0.1"
